@@ -1,6 +1,6 @@
 #Resolution numérique
 import numpy as np
-from class_used import *
+from class_Model import *
 import matplotlib.pyplot as plt
 
 
