@@ -1,5 +1,6 @@
-#
 # main
+
+# Veuiller lancer le code par section
 from class_Model import *
 import numpy as np
 import matplotlib.pyplot as plt
