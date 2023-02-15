@@ -1,6 +1,6 @@
 #
 # main
-from class_used import *
+from class_Model import *
 import numpy as np
 import matplotlib.pyplot as plt
 from sympy.interactive import printing
