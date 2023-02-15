@@ -1,1 +1,3 @@
 # Vacuum-Stability-MPSA
+
+#Le dossier contient différents fichier, celui devant être éxecuté est le main qui doit être lancé par section pour voir les différents graphes un à un. Le fichier #Runge_Kutta_class contient des classes de méthodes de résolution d'équation différentielle. Le fichier class_Model contient la classe représentant le modèle utilisé (Modèle #Standard, Modèle MSSM), c'est à partir de cette classe que sont obtenu tout les graphes des différentes constantes de couplage, du terme de Yukawa pour le quark top et du #paramètre de Higgs lambda. Le fichier variables contient toutes les variables utiles pour la construction du modèle.   
